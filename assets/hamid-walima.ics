@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sehgal Family//Hamid Shahid Walima//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:hamid-shahid-walima-20261109@invitation.local
+DTSTAMP:20261023T120000Z
+DTSTART:20261109T140000Z
+DTEND:20261109T170000Z
+SUMMARY:Hamid Shahid - Walima Reception
+LOCATION:Dynasty Event Complex\, Gulberg
+DESCRIPTION:Join the Sehgal family for the Walima of Hamid Shahid.
+URL:https://maps.app.goo.gl/c7Z4BREsHtrKBYPN8
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:Hamid Shahid Walima begins in 2 hours
+END:VALARM
+END:VEVENT
+END:VCALENDAR
